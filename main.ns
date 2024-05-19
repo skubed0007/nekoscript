@@ -1,0 +1,6 @@
+may _i = Int!;
+may whole ii = String!;
+echonl("Press enter");
+takein(*ii);
+may mut i = Float!;
+exit!
