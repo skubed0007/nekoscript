@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["dir_list","dir_walk","exe_path","exists","get_file_name","get_path","has_extension","is_directory","is_hidden","replace_extension","replace_file_name","replace_path","rtrim_backslash","split_parts"]};

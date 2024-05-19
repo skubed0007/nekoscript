@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ClearScreen","Error"],"fn":["clear","is_microsoft_terminal","is_windows_10"]};

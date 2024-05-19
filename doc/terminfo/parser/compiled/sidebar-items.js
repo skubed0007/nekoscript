@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["parse"],"struct":["Database","Extended","Standard"]};
